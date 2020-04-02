@@ -1,0 +1,10 @@
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1009 URI\bin\Debug\netcoreapp3.1\Ex. 1009 URI.exe
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1009 URI\bin\Debug\netcoreapp3.1\Ex. 1009 URI.deps.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1009 URI\bin\Debug\netcoreapp3.1\Ex. 1009 URI.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1009 URI\bin\Debug\netcoreapp3.1\Ex. 1009 URI.runtimeconfig.dev.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1009 URI\bin\Debug\netcoreapp3.1\Ex. 1009 URI.dll
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1009 URI\bin\Debug\netcoreapp3.1\Ex. 1009 URI.pdb
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1009 URI\obj\Debug\netcoreapp3.1\Ex. 1009 URI.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1009 URI\obj\Debug\netcoreapp3.1\Ex. 1009 URI.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1009 URI\obj\Debug\netcoreapp3.1\Ex. 1009 URI.dll
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1009 URI\obj\Debug\netcoreapp3.1\Ex. 1009 URI.pdb
