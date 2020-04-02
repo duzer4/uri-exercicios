@@ -1,0 +1,11 @@
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1010\obj\Debug\netcoreapp3.1\Ex. 1010.csprojAssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1010\obj\Debug\netcoreapp3.1\Ex. 1010.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1010\obj\Debug\netcoreapp3.1\Ex. 1010.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1010\bin\Debug\netcoreapp3.1\Ex. 1010.exe
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1010\bin\Debug\netcoreapp3.1\Ex. 1010.deps.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1010\bin\Debug\netcoreapp3.1\Ex. 1010.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1010\bin\Debug\netcoreapp3.1\Ex. 1010.runtimeconfig.dev.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1010\bin\Debug\netcoreapp3.1\Ex. 1010.dll
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1010\bin\Debug\netcoreapp3.1\Ex. 1010.pdb
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1010\obj\Debug\netcoreapp3.1\Ex. 1010.dll
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Ex. 1010\obj\Debug\netcoreapp3.1\Ex. 1010.pdb
