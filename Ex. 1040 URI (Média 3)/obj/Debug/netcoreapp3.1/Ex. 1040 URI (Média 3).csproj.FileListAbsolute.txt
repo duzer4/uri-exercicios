@@ -1,0 +1,11 @@
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1040 URI (Média 3)\bin\Debug\netcoreapp3.1\Ex. 1040 URI (Média 3).exe
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1040 URI (Média 3)\bin\Debug\netcoreapp3.1\Ex. 1040 URI (Média 3).deps.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1040 URI (Média 3)\bin\Debug\netcoreapp3.1\Ex. 1040 URI (Média 3).runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1040 URI (Média 3)\bin\Debug\netcoreapp3.1\Ex. 1040 URI (Média 3).runtimeconfig.dev.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1040 URI (Média 3)\bin\Debug\netcoreapp3.1\Ex. 1040 URI (Média 3).dll
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1040 URI (Média 3)\bin\Debug\netcoreapp3.1\Ex. 1040 URI (Média 3).pdb
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1040 URI (Média 3)\obj\Debug\netcoreapp3.1\Ex. 1040 URI (Média 3).AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1040 URI (Média 3)\obj\Debug\netcoreapp3.1\Ex. 1040 URI (Média 3).AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1040 URI (Média 3)\obj\Debug\netcoreapp3.1\Ex. 1040 URI (Média 3).dll
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1040 URI (Média 3)\obj\Debug\netcoreapp3.1\Ex. 1040 URI (Média 3).pdb
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1040 URI (Média 3)\obj\Debug\netcoreapp3.1\Ex. 1040 URI (Média 3).csprojAssemblyReference.cache
