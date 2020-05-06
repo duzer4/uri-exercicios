@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ex. 1041 URI (Coordenadas de um Ponto)/1.0.0": {
+        "runtime": {
+          "Ex. 1041 URI (Coordenadas de um Ponto).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex. 1041 URI (Coordenadas de um Ponto)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
