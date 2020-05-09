@@ -1,0 +1,11 @@
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1051 URI (Imposto de Renda)\bin\Debug\netcoreapp3.1\Ex. 1051 URI (Imposto de Renda).exe
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1051 URI (Imposto de Renda)\bin\Debug\netcoreapp3.1\Ex. 1051 URI (Imposto de Renda).deps.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1051 URI (Imposto de Renda)\bin\Debug\netcoreapp3.1\Ex. 1051 URI (Imposto de Renda).runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1051 URI (Imposto de Renda)\bin\Debug\netcoreapp3.1\Ex. 1051 URI (Imposto de Renda).runtimeconfig.dev.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1051 URI (Imposto de Renda)\bin\Debug\netcoreapp3.1\Ex. 1051 URI (Imposto de Renda).dll
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1051 URI (Imposto de Renda)\bin\Debug\netcoreapp3.1\Ex. 1051 URI (Imposto de Renda).pdb
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1051 URI (Imposto de Renda)\obj\Debug\netcoreapp3.1\Ex. 1051 URI (Imposto de Renda).csprojAssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1051 URI (Imposto de Renda)\obj\Debug\netcoreapp3.1\Ex. 1051 URI (Imposto de Renda).AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1051 URI (Imposto de Renda)\obj\Debug\netcoreapp3.1\Ex. 1051 URI (Imposto de Renda).AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1051 URI (Imposto de Renda)\obj\Debug\netcoreapp3.1\Ex. 1051 URI (Imposto de Renda).dll
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1051 URI (Imposto de Renda)\obj\Debug\netcoreapp3.1\Ex. 1051 URI (Imposto de Renda).pdb
