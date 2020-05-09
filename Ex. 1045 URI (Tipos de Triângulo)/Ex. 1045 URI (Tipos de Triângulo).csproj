@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Ex._1045_URI__Tipos_de_Triângulo_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

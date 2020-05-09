@@ -1,0 +1,11 @@
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1045 URI (Tipos de Triângulo)\bin\Debug\netcoreapp3.1\Ex. 1045 URI (Tipos de Triângulo).exe
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1045 URI (Tipos de Triângulo)\bin\Debug\netcoreapp3.1\Ex. 1045 URI (Tipos de Triângulo).deps.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1045 URI (Tipos de Triângulo)\bin\Debug\netcoreapp3.1\Ex. 1045 URI (Tipos de Triângulo).runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1045 URI (Tipos de Triângulo)\bin\Debug\netcoreapp3.1\Ex. 1045 URI (Tipos de Triângulo).runtimeconfig.dev.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1045 URI (Tipos de Triângulo)\bin\Debug\netcoreapp3.1\Ex. 1045 URI (Tipos de Triângulo).dll
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1045 URI (Tipos de Triângulo)\bin\Debug\netcoreapp3.1\Ex. 1045 URI (Tipos de Triângulo).pdb
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1045 URI (Tipos de Triângulo)\obj\Debug\netcoreapp3.1\Ex. 1045 URI (Tipos de Triângulo).csprojAssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1045 URI (Tipos de Triângulo)\obj\Debug\netcoreapp3.1\Ex. 1045 URI (Tipos de Triângulo).AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1045 URI (Tipos de Triângulo)\obj\Debug\netcoreapp3.1\Ex. 1045 URI (Tipos de Triângulo).AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1045 URI (Tipos de Triângulo)\obj\Debug\netcoreapp3.1\Ex. 1045 URI (Tipos de Triângulo).dll
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1045 URI (Tipos de Triângulo)\obj\Debug\netcoreapp3.1\Ex. 1045 URI (Tipos de Triângulo).pdb
