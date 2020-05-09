@@ -1,0 +1,11 @@
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1049 URI (Animal)\bin\Debug\netcoreapp3.1\Ex. 1049 URI (Animal).exe
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1049 URI (Animal)\bin\Debug\netcoreapp3.1\Ex. 1049 URI (Animal).deps.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1049 URI (Animal)\bin\Debug\netcoreapp3.1\Ex. 1049 URI (Animal).runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1049 URI (Animal)\bin\Debug\netcoreapp3.1\Ex. 1049 URI (Animal).runtimeconfig.dev.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1049 URI (Animal)\bin\Debug\netcoreapp3.1\Ex. 1049 URI (Animal).dll
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1049 URI (Animal)\bin\Debug\netcoreapp3.1\Ex. 1049 URI (Animal).pdb
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1049 URI (Animal)\obj\Debug\netcoreapp3.1\Ex. 1049 URI (Animal).csprojAssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1049 URI (Animal)\obj\Debug\netcoreapp3.1\Ex. 1049 URI (Animal).AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1049 URI (Animal)\obj\Debug\netcoreapp3.1\Ex. 1049 URI (Animal).AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1049 URI (Animal)\obj\Debug\netcoreapp3.1\Ex. 1049 URI (Animal).dll
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1049 URI (Animal)\obj\Debug\netcoreapp3.1\Ex. 1049 URI (Animal).pdb
