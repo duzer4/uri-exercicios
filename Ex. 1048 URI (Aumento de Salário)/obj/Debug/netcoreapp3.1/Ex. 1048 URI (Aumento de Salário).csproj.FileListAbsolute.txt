@@ -1,0 +1,11 @@
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1048 URI (Aumento de Salário)\bin\Debug\netcoreapp3.1\Ex. 1048 URI (Aumento de Salário).exe
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1048 URI (Aumento de Salário)\bin\Debug\netcoreapp3.1\Ex. 1048 URI (Aumento de Salário).deps.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1048 URI (Aumento de Salário)\bin\Debug\netcoreapp3.1\Ex. 1048 URI (Aumento de Salário).runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1048 URI (Aumento de Salário)\bin\Debug\netcoreapp3.1\Ex. 1048 URI (Aumento de Salário).runtimeconfig.dev.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1048 URI (Aumento de Salário)\bin\Debug\netcoreapp3.1\Ex. 1048 URI (Aumento de Salário).dll
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1048 URI (Aumento de Salário)\bin\Debug\netcoreapp3.1\Ex. 1048 URI (Aumento de Salário).pdb
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1048 URI (Aumento de Salário)\obj\Debug\netcoreapp3.1\Ex. 1048 URI (Aumento de Salário).csprojAssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1048 URI (Aumento de Salário)\obj\Debug\netcoreapp3.1\Ex. 1048 URI (Aumento de Salário).AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1048 URI (Aumento de Salário)\obj\Debug\netcoreapp3.1\Ex. 1048 URI (Aumento de Salário).AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1048 URI (Aumento de Salário)\obj\Debug\netcoreapp3.1\Ex. 1048 URI (Aumento de Salário).dll
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1048 URI (Aumento de Salário)\obj\Debug\netcoreapp3.1\Ex. 1048 URI (Aumento de Salário).pdb
