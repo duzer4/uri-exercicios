@@ -1,0 +1,10 @@
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1075 URI (Resto 2)\bin\Debug\netcoreapp3.1\Ex. 1075 URI (Resto 2).exe
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1075 URI (Resto 2)\bin\Debug\netcoreapp3.1\Ex. 1075 URI (Resto 2).deps.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1075 URI (Resto 2)\bin\Debug\netcoreapp3.1\Ex. 1075 URI (Resto 2).runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1075 URI (Resto 2)\bin\Debug\netcoreapp3.1\Ex. 1075 URI (Resto 2).runtimeconfig.dev.json
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1075 URI (Resto 2)\bin\Debug\netcoreapp3.1\Ex. 1075 URI (Resto 2).dll
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1075 URI (Resto 2)\bin\Debug\netcoreapp3.1\Ex. 1075 URI (Resto 2).pdb
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1075 URI (Resto 2)\obj\Debug\netcoreapp3.1\Ex. 1075 URI (Resto 2).AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1075 URI (Resto 2)\obj\Debug\netcoreapp3.1\Ex. 1075 URI (Resto 2).AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1075 URI (Resto 2)\obj\Debug\netcoreapp3.1\Ex. 1075 URI (Resto 2).dll
+C:\Users\josee\OneDrive\Documentos\My\Cursos Udemy\Lógica de Programação e Algoritmos C#\Exercícios URI\Ex. 1075 URI (Resto 2)\obj\Debug\netcoreapp3.1\Ex. 1075 URI (Resto 2).pdb
